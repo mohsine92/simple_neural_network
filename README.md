@@ -8,7 +8,7 @@
 
 <hr />
 
-<h2>🚀 Learning Objectives</h2>
+<h2>🚀 Learning objectives</h2>
 <ul>
   <li>Understand the <strong>mathematical foundations</strong> of neural networks without high-level ML libraries.</li>
   <li>Implement <strong>forward propagation</strong>, <strong>backpropagation</strong>, and <strong>gradient descent</strong> manually.</li>
@@ -16,7 +16,7 @@
   <li>Design flexible neural architectures with custom layers and activation logic.</li>
 </ul>
 
-<h2>🧬 Brief Description of the Model</h2>
+<h2>🧬 Brief description of the model</h2>
 <ul>
   <li><strong>Custom architecture</strong>: Configurable layers (e.g. [2, 4, 1] or [2, 10, 8, 1])</li>
   <li><strong>Sigmoid activation</strong> for all layers</li>
@@ -30,7 +30,7 @@
   </li>
 </ul>
 
-<h2>🛠️ Technical Stack</h2>
+<h2>🛠️ Technical stack</h2>
 <ul>
   <li><strong>Python 3.10+</strong></li>
   <li><strong>NumPy</strong> – Vectorized operations</li>
@@ -38,7 +38,7 @@
   <li>No external ML frameworks used</li>
 </ul>
 
-<h2>🔭 Future Developments and Improvements</h2>
+<h2>🔭 Future developments and improvements</h2>
 <ul>
   <li>Add support for other activation functions (ReLU, tanh)</li>
   <li>Enable multiclass classification support</li>
@@ -47,7 +47,7 @@
   <li>Add real-time dashboards with Streamlit or Gradio</li>
 </ul>
 
-<h2>📦 How to Run</h2>
+<h2>📦 How to run</h2>
 <pre><code>pip install numpy matplotlib
 python simple_neural_network.py
 </code></pre>
@@ -59,7 +59,7 @@ python simple_neural_network.py
   <li>Plot decision boundaries and loss curves</li>
 </ul>
 
-<h2>📸 Sample Output</h2>
+<h2>📸 Sample output</h2>
 
 ![Figure_3](https://github.com/user-attachments/assets/8a4886db-7bd9-4b54-aaef-441e09ee0cfb)
 
