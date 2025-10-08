@@ -1,4 +1,4 @@
-<h1>🧠 Simple Neural Network</h1>
+<h1>Simple Neural Network</h1>
 
 <p>
   A fully functional neural network built <strong>from scratch using NumPy</strong>, designed for educational purposes.
@@ -8,7 +8,7 @@
 
 <hr />
 
-<h2>🚀 Learning objectives</h2>
+<h2>Learning objectives</h2>
 <ul>
   <li>Understand the <strong>mathematical foundations</strong> of neural networks without high-level ML libraries.</li>
   <li>Implement <strong>forward propagation</strong>, <strong>backpropagation</strong>, and <strong>gradient descent</strong> manually.</li>
@@ -16,7 +16,7 @@
   <li>Design flexible neural architectures with custom layers and activation logic.</li>
 </ul>
 
-<h2>🧬 Brief description of the model</h2>
+<h2>Brief description of the model</h2>
 <ul>
   <li><strong>Custom architecture</strong>: Configurable layers (e.g. [2, 4, 1] or [2, 10, 8, 1])</li>
   <li><strong>Sigmoid activation</strong> for all layers</li>
@@ -47,7 +47,7 @@
   <li>Add real-time dashboards with Streamlit or Gradio</li>
 </ul>
 
-<h2>📦 How to run</h2>
+<h2>How to run</h2>
 <pre><code>pip install numpy matplotlib
 python simple_neural_network.py
 </code></pre>
